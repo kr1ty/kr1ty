@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/009/384/930/original/modern-welcome-banner-with-abstract-geometric-style-free-vector.jpg" alt="Welcome Banner" width="600"/>
+  <img src="welcome.jpg" alt="Welcome Banner" width="600"/>
 </p>
 
 <h1 align="center">Hi there 👋 I'm Kareem Mohamed</h1>
@@ -36,15 +36,6 @@
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />
   <img src="https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-</p>
-
----
-
-## 📸 Gallery
-
-<p align="center">
-  <img src="https://i.imgur.com/zzvR8Qh.png" width="300" />
-  <img src="https://i.imgur.com/4M7IWwP.png" width="300" />
 </p>
 
 ---
