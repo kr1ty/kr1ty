@@ -1,7 +1,9 @@
 <!-- Banner Image -->
+<!--
 <p align="center">
   <img src="welcome.jpg" alt="Welcome Banner" width="600"/>
 </p>
+-->
 
 <h1 align="center">Hi there 👋 I'm Kareem Mohamed</h1>
 
