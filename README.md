@@ -1,14 +1,11 @@
-<!-- Banner Image -->
-<!--
 <p align="center">
-  <img src="welcome.jpg" alt="Welcome Banner" width="600"/>
+  <img src="https://i.ibb.co/8XJXYHz/Black-White-Modern-Hacker-Movie-Poster-1.png" alt="Welcome Banner" width="600"/>
 </p>
--->
 
 <h1 align="center">Hi there 👋 I'm Kareem Mohamed</h1>
 
 <p align="center">
-  🚀 Beginner Programmer | 🎓 Student | 💡 Learning by Doing
+  🚀 Beginner Programmer | � Student | 💡 Learning by Doing
 </p>
 
 ---
