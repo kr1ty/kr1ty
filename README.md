@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/010/925/778/small_2x/colorful-welcome-design-template-free-vector.jpg" alt="Welcome Banner" width="600"/>
+  <img src="https://i.ibb.co/6YhyKPC/github-welcome-banner.png" alt="Welcome Banner" width="600"/>
 </p>
 
 <h1 align="center">Hi there 👋 I'm Kareem Mohamed</h1>
