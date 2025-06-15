@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kr1ty/kr1ty/main/assets/banner.png" alt="Welcome Banner" width="600"/>
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/009/384/930/original/modern-welcome-banner-with-abstract-geometric-style-free-vector.jpg" alt="Welcome Banner" width="600"/>
 </p>
 
 <h1 align="center">Hi there 👋 I'm Kareem Mohamed</h1>
