@@ -1,6 +1,6 @@
-<!-- Banner or Profile Image -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://i.imgur.com/Z6m5XJe.png" alt="Welcome Banner" width="600"/>
+  <img src="https://raw.githubusercontent.com/kr1ty/kr1ty/main/assets/banner.png" alt="Welcome Banner" width="600"/>
 </p>
 
 <h1 align="center">Hi there 👋 I'm Kareem Mohamed</h1>
@@ -51,8 +51,8 @@
 
 ## 📫 Connect With Me
 
-- Email: kareem@example.com  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 📧 Email: kareem.ms.code93@gmail.com  
+- 🐙 GitHub: [github.com/kr1ty](https://github.com/kr1ty)
 
 ---
 
