@@ -16,14 +16,7 @@ I am a dedicated **Software Engineer** focused on mastering core computer scienc
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kr1ty&theme=nord&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Karim's Trophies" />
-</p>
-
----
-
-### 🛠️ Technical Toolkit & Core Competencies
+### 🏆 Technical Toolkit & Core Competencies
 
 <details open>
 <summary><b>💻 Core Language & Engineering Fundamentals</b></summary>
@@ -74,8 +67,9 @@ I am a dedicated **Software Engineer** focused on mastering core computer scienc
 
 ### 📊 Advanced Performance Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kr1ty&show_icons=true&theme=nord&count_private=true&include_all_commits=true" alt="Karim's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr1ty&layout=compact&theme=nord" alt="Top Languages" height="180px" />
+  <!-- استخدام نظام كروت أنيق ومستقر وبديل تماماً لحل مشكلة السيرفرات السابقة -->
+  <img src="https://github-readme-stats-git-master-anuraghazras.vercel.app/api?username=kr1ty&show_icons=true&theme=nord&count_private=true&include_all_commits=true" alt="Karim's Stats" height="180px" />
+  <img src="https://github-readme-stats-git-master-anuraghazras.vercel.app/api/top-langs/?username=kr1ty&layout=compact&theme=nord" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
