@@ -20,7 +20,7 @@ I am a dedicated **Software Engineer** focused on mastering core computer scienc
 
 | Tech Stack | Focus Areas & Concepts |
 | :--- | :--- |
-| **C++ Core** | Algorithmic Thinking • Structural Logic & Flowcharts • Functional Programming • Arrays & Multi-Dimensional Matrices • User-Defined Data Types (Structures & Enums) • Advanced Debugging & Problem Solving |
+| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | Algorithmic Thinking • Structural Logic & Flowcharts • Functional Programming • Arrays & Multi-Dimensional Matrices • User-Defined Data Types (Structures & Enums) • Advanced Debugging & Problem Solving |
 
 </details>
 
@@ -66,5 +66,7 @@ Here is the comprehensive, conceptual blueprint I am strictly following to build
 ### 🌐 Let's Build Something Elegant
 I am always keen to connect with fellow engineers, discuss software optimization, or talk about algorithmic problem-solving.
 
-* **LinkedIn:** [Kareem Mohamed Shaker](https://www.linkedin.com/in/kareem-mohamed-shaker-82258036b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-* **Email:** kareem.ms.code93@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/kareem-mohamed-shaker-82258036b?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kareem.ms.code93@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
