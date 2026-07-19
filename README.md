@@ -13,14 +13,19 @@ I am a dedicated **Software Engineer** focused on mastering core computer scienc
 ---
 
 ### 🏆 Interactive Developer Analytics
-<!-- تم استبدال الـ Streak ببطاقة لغة C++ مخصصة ومدمجة بأسلوب احترافي داخل الجدول لضمان ثبات اللي أوت -->
-<table border="0" cellpadding="0" cellspacing="0">
+
+<!-- غلاف برمجتة إبداعي ومتحرك يعكس هوية الـ Software Engineer بشكل عصري ومستقر -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=10,20,30&height=120&section=header&text=SOFTWARE%20ENGINEERING%20LAB&fontSize=25&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
+</p>
+
+<table border="0" cellpadding="0" cellspacing="0" align="center">
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kr1ty&show_icons=true&theme=nord&count_private=true&include_all_commits=true" alt="Karim's Stats" height="170px" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kr1ty&show_icons=true&theme=outrun&count_private=true&include_all_commits=true" alt="Karim's Stats" height="175px" />
     </td>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kr1ty&layout=compact&theme=nord&langs_count=1" alt="Top Languages" height="170px" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kr1ty&layout=compact&theme=outrun&langs_count=1" alt="Top Languages" height="175px" />
     </td>
   </tr>
 </table>
@@ -76,12 +81,12 @@ Here is the comprehensive, conceptual blueprint I am strictly following to build
   <tr>
     <td width="50%" valign="top">
       <h4>🚀 System Application</h4>
-      <p>A console-based software solution engineered with a core focus on optimal algorithms and structured clean code principles.</p>
+      <p>A console-based software solution engineered with a focus on optimal algorithms and structured clean code principles.</p>
       <p><b>Tech Stack:</b> C++ / Core Algorithms</p>
     </td>
     <td width="50%" valign="top">
       <h4>🛠️ Algorithmic Suite</h4>
-      <p>A repository containing highly optimized solutions to complex logical problems using Divide & Conquer and clean code practices.</p>
+      <p>A repository containing optimized solutions to complex logical problems using Divide & Conquer and clean code practices.</p>
       <p><b>Tech Stack:</b> C++ / Problem Solving</p>
     </td>
   </tr>
