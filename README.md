@@ -12,6 +12,19 @@ I am a dedicated **Software Engineer** focused on mastering core computer scienc
 
 ---
 
+### 🏆 Interactive Developer Analytics
+<!-- هذه الروابط مبنية على سيرفرات مجتمعية بديلة مستقرة تماماً لتجنب خطأ 402 -->
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kr1ty&show_icons=true&theme=nord&count_private=true&include_all_commits=true" alt="Karim's Stats" height="180px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kr1ty&layout=compact&theme=nord" alt="Top Languages" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-tw.vercel.app/?user=kr1ty&theme=nord" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 🛠️ Technical Toolkit & Core Competencies
 
 <table>
