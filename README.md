@@ -16,7 +16,7 @@ I am a dedicated **Software Engineer** focused on mastering core computer scienc
 
 ---
 
-### 🏆 Technical Toolkit & Core Competencies
+### 🛠️ Technical Toolkit & Core Competencies
 
 <details open>
 <summary><b>💻 Core Language & Engineering Fundamentals</b></summary>
@@ -62,19 +62,6 @@ I am a dedicated **Software Engineer** focused on mastering core computer scienc
     </td>
   </tr>
 </table>
-
----
-
-### 📊 Advanced Performance Analytics
-<p align="center">
-  <!-- استخدام نظام كروت أنيق ومستقر وبديل تماماً لحل مشكلة السيرفرات السابقة -->
-  <img src="https://github-readme-stats-git-master-anuraghazras.vercel.app/api?username=kr1ty&show_icons=true&theme=nord&count_private=true&include_all_commits=true" alt="Karim's Stats" height="180px" />
-  <img src="https://github-readme-stats-git-master-anuraghazras.vercel.app/api/top-langs/?username=kr1ty&layout=compact&theme=nord" alt="Top Languages" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kr1ty&theme=nord" alt="GitHub Streak" />
-</p>
 
 ---
 
