@@ -12,27 +12,24 @@ I am a dedicated **Software Engineer** focused on mastering core computer scienc
 
 ---
 
-### 🏆 Interactive Developer Analytics
-
-<!-- غلاف برمجتة إبداعي ومتحرك يعكس هوية الـ Software Engineer بشكل عصري ومستقر -->
+### 🛠️ Core Engineering Stack & Tech Ecosystem
+<!-- استبدال كلي للبطاقات القديمة بلوحة أيقونات بصرية إبداعية ومستقرة تماماً تعكس مهاراتك البرمجية -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=10,20,30&height=120&section=header&text=SOFTWARE%20ENGINEERING%20LAB&fontSize=25&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Computer_Science-%232C3E50.svg?style=for-the-badge&logo=computer-science&logoColor=white" alt="CS Fundamentals" />
+  <img src="https://img.shields.io/badge/Algorithms-%23000000.svg?style=for-the-badge&logo=leethub&logoColor=white" alt="Algorithms" />
+  <img src="https://img.shields.io/badge/Data_Structures-%23FF5722.svg?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Structures" />
 </p>
 
-<table border="0" cellpadding="0" cellspacing="0" align="center">
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kr1ty&show_icons=true&theme=outrun&count_private=true&include_all_commits=true" alt="Karim's Stats" height="175px" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kr1ty&layout=compact&theme=outrun&langs_count=1" alt="Top Languages" height="175px" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Clean_Code-%234CAF50.svg?style=for-the-badge&logo=prospect&logoColor=white" alt="Clean Code" />
+</p>
 
 ---
 
-### 🛠️ Technical Toolkit & Core Competencies
+### ⚙️ Technical Toolkit & Core Competencies
 
 <table>
   <tr>
