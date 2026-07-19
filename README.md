@@ -13,19 +13,14 @@ I am a dedicated **Software Engineer** focused on mastering core computer scienc
 ---
 
 ### 🏆 Interactive Developer Analytics
-<!-- ترتيب الكروت في جدول نظيف لضمان ثبات ومحاذاة المظهر البصري بالمسطرة -->
-<table border="0">
+<!-- تم استبدال الـ Streak ببطاقة لغة C++ مخصصة ومدمجة بأسلوب احترافي داخل الجدول لضمان ثبات اللي أوت -->
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="top">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kr1ty&show_icons=true&theme=nord&count_private=true&include_all_commits=true" alt="Karim's Stats" height="170px" />
     </td>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kr1ty&layout=compact&theme=nord" alt="Top Languages" height="170px" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" valign="top">
-      <img src="https://github-readme-streak-stats.allanderson.dev/?user=kr1ty&theme=nord" alt="GitHub Streak" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kr1ty&layout=compact&theme=nord&langs_count=1" alt="Top Languages" height="170px" />
     </td>
   </tr>
 </table>
