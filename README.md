@@ -8,7 +8,7 @@ I am a dedicated **Software Engineer** focused on mastering core computer scienc
 
 * 🧠 **Engineering Mindset:** Strong advocate for **Clean Code**, code readability, and optimized logic execution.
 * 🎯 **Problem Solving:** Consistently applying **Divide and Conquer** methodologies to isolate and solve logical problems.
-* 🎓 **The Path:** Deepening my knowledge through a rigorous, concepts-driven software engineering framework (via *Programming Advices* blueprint).
+* 🎓 **The Path:** Deepening my knowledge through a rigorous, concepts-driven software engineering framework.
 
 ---
 
