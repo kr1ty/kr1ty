@@ -14,7 +14,7 @@ I am a dedicated **Software Engineer** focused on mastering core computer scienc
 
 ### 🛠️ Core Engineering Stack & Tech Ecosystem
 
-<!-- بداية الهيكل الهرمي الإبداعي باستخدام جدول غير مرئي لضمان التنسيق -->
+<!-- بداية الهيكل الهرمي الإبداعي -->
 <table border="0" align="center" cellpadding="0" cellspacing="0">
   <!-- المستوى الأول: القمة (المعيار الأساسي) -->
   <tr>
@@ -99,19 +99,21 @@ Here is the comprehensive, conceptual blueprint I am strictly following to build
 
 ---
 
-### 📌 Featured Engineering Projects (Coming Soon 🚀)
+### 📌 Featured Engineering Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🚀 System Application</h4>
+      <h4>🚀 <a href="https://github.com/kr1ty/Training-projects">System Application</a></h4>
       <p>A console-based software solution engineered with a focus on optimal algorithms and structured clean code principles.</p>
       <p><b>Tech Stack:</b> C++ / Core Algorithms</p>
+      <p>🔗 <a href="https://www.linkedin.com/in/kareem-mohamed-shaker-82258036b">Connect on LinkedIn</a></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🛠️ Algorithmic Suite</h4>
+      <h4>🛠️ <a href="https://github.com/kr1ty/Training-projects">Algorithmic Suite</a></h4>
       <p>A repository containing optimized solutions to complex logical problems using Divide & Conquer and clean code practices.</p>
       <p><b>Tech Stack:</b> C++ / Problem Solving</p>
+      <p>🔗 <a href="https://www.linkedin.com/in/kareem-mohamed-shaker-82258036b">Connect on LinkedIn</a></p>
     </td>
   </tr>
 </table>
@@ -121,5 +123,5 @@ Here is the comprehensive, conceptual blueprint I am strictly following to build
 ### 🌐 Let's Build Something Elegant
 I am always keen to connect with fellow engineers, discuss software optimization, or talk about algorithmic problem-solving.
 
-* **💼 LinkedIn:** [Kareem Mohamed Shaker](https://www.linkedin.com/in/kareem-mohamed-shaker-82258036b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* **💼 LinkedIn:** [Kareem Mohamed Shaker](https://www.linkedin.com/in/kareem-mohamed-shaker-82258036b)
 * **📧 Email:** [kareem.ms.code93@gmail.com](mailto:kareem.ms.code93@gmail.com)
